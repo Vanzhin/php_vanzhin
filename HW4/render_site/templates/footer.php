@@ -1,0 +1,4 @@
+<footer>
+    <?=$year?>
+</footer>
+
